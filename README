@@ -1,0 +1,33 @@
+UPDATED TO CURRENT FOR ALL to Current: August 1, 2011 by WhiteStar Magic.
+
+
+Quick installation of user Defined Language LSL for Notepad++
+
+1) Place the "LSL_OSSL_PLUS.xml" where you can find it easily.
+2) Click on Menu Option [view]
+3) Select [User-Defined Dialogue]  a sub-window will open, this is slow.
+4) Select [Import] and get the file from where you put it.
+
+
+After it's loaded in close the [User-Defined Dialogue] box, and close Notepad++
+
+
+Restart Notepad and your all set.   
+Any LSL Script will be formatted and Highlighted properly.
+They are recognized by the .lsl  Extension.   EXAMPLE:  "MyScript.lsl"
+
+
+Currently what is in this definition:
+
+- LSL : llFunctions() Linden Scripting Language for SeconfLife(tm)   (370 functions new & deprecated + all Constants)
+
+- OSSL: osFunctions() used in OpenSimulator & Aurora-Sim.  (83 functions + all Constants)
+
+- AA  : aaFunctions(), used in Aurora-Sim (29 functions + all Constants)
+
+- BOT : botFunctions(), used in Aurora-Sim (18 functions + all Constants)
+
+Using the information from the Latest LL Viewer 2.x Viewer, LL Wiki & Aurora Functions (which are more than OpenSimulator).
+
+
+Enjoy & Have Fun, WhiteStar Magic
